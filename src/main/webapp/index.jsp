@@ -13,7 +13,13 @@
    <p>
          Last name: <input type = "text" name = "lname" />
   </p>
- 
+
+ <p>
+father name: <input type = "text" name = "father name" />
+</p>
+ <p>
+mother name: <input type = "text" name = "mother name" />
+</p>
    <p>
          <input type = "radio" name = "Gender" value = "Male"> Male
          <input type = "radio" name = "Gender" value = "Female"> Female
