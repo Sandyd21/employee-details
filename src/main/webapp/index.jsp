@@ -32,7 +32,9 @@ Designation: <input type = "text" name = "ID" />
 <p>
 Phone Number: <input type = "text" name = "phone" />
 </p>
- 
+ <p>
+address: <input type = "text" name = "address" />
+</p>
  <p>
       <input type = "submit" name = "submit" value = "Submit" />
     </p>
